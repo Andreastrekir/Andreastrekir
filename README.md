@@ -1,6 +1,6 @@
 ABOUT ME...
     
-    consta andrea = {
+    const andrea = {
         pronouns: "She" | "Her",
         code: ["Javascript", "Typescript", "php"],
         askMeAbout: ["web dev", "tech", "app dev"],
