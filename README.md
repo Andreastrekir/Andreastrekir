@@ -1,5 +1,9 @@
+ABOUT ME...
+
+
 const andrea = {
-    pronouns: "She" | "Her", 
+
+    pronouns: "She" | "Her",
     code: ["Javascript", "Typescript", "php"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
@@ -10,7 +14,7 @@ const andrea = {
         backEnd: {
             js: ["node", "express"]
         },
-        databases: ["MySql"], 
+        databases: ["MySql"],
     },
- 
+    architecture: [ "awesome and responsive web applications"],
 };
