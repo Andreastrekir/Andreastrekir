@@ -1,6 +1,5 @@
 ABOUT ME...
 
-
 const andrea = {
 
     pronouns: "She" | "Her",
