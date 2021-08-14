@@ -9,9 +9,9 @@ ABOUT ME...
                 js: ["React"],
                 css: ["SASS", "bootstrap"]
                 },
-        backEnd: {
-            js: ["node", "express"]
-            },
+            backEnd: {
+                js: ["node", "express"]
+                },
         databases: ["MySql"],
         },
         architecture: [ "awesome and responsive web applications"],
